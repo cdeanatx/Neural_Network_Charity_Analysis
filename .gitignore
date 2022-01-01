@@ -127,3 +127,18 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# test books
+tensorflow_practice.ipynb
+deeplearning_tabular.ipynb
+logregression_neuralnet.ipynb
+svm_deeplearning.ipynb
+randomforest_deeplearning.ipynb
+
+# CSVs
+*.csv
+
+# Dataset folder
+resources/
+checkpoints/
+trained_attrition.h5
